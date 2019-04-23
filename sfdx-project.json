@@ -63,6 +63,9 @@
         }
     ],
     "packageAliases": {
-        
+        "core": "0Ho2E000000XZBUSA4",
+        "core@0.1.0-1": "04t2E000002njnIQAQ",
+        "logic": "0Ho2E000000XZBZSA4",
+        "logic@0.1.0-1": "04t2E000002nkSfQAI"
     }
 }
